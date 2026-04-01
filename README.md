@@ -1,48 +1,54 @@
-# Hi, I'm David
+# Hi, I'm David 👋
 
-I'm a UC San Diego student studying **Mathematics–Computer Science**, with a focus on **data science, machine learning, and advanced data structures**. I’m particularly interested in building models that uncover structure in complex data.
+🎓 UC San Diego — Mathematics–Computer Science (Class of 2026)  
+📊 Focus: Machine Learning, Data Science, Probabilistic Modeling  
+
+I’m particularly interested in building models that uncover hidden structure in complex data — from probabilistic classifiers to sequence models like Hidden Markov Models.
 
 ---
 
-## Featured Projects
+## 🔬 Featured Projects
 
-### Hidden Markov Model for Disease Progression
-
-* Built an HMM from scratch to model latent disease states
-* Implemented Viterbi decoding for sequence inference
-* Analyzed transition and emission dynamics
-* Used PCA to reveal structured progression patterns
+### 🧠 Hidden Markov Model for Disease Progression
+- Built an HMM from scratch to model latent disease states  
+- Implemented Viterbi decoding for sequence inference  
+- Analyzed transition and emission dynamics  
+- Used PCA to reveal structured progression patterns  
 
 🔗 https://github.com/dcontrerasrivera/hidden-markov-model-disease-progression
 
 ---
 
-### Naive Bayes Disease Prediction
-
-* Developed a probabilistic classifier using Bayesian modeling
-* Applied MLE with Laplace smoothing
-* Identified dataset leakage and limitations in model performance
+### 🧪 Naive Bayes Disease Prediction
+- Developed a probabilistic classifier using Bayesian modeling  
+- Applied MLE with Laplace smoothing  
+- Identified dataset leakage and limitations in model performance  
 
 🔗 https://github.com/dcontrerasrivera/naive-bayes-disease-prediction
 
 ---
 
-## Skills
+### 📈 Regression Model Comparison
+- Compared linear, polynomial, and kernel regression  
+- Used cross-validation to evaluate predictive performance  
+- Analyzed bias-variance tradeoffs  
 
-* Python (NumPy, pandas, scikit-learn)
-* Machine Learning & Probabilistic Models
-* Data Analysis & Visualization
-
----
-
-## Interests
-
-* Machine Learning
-* Data Science
-* Advanced Data Structure
+🔗 https://github.com/dcontrerasrivera/regression-model-comparison
 
 ---
 
-## Contact
+## 🛠️ Skills
 
-* LinkedIn: 
+- Python (NumPy, pandas, scikit-learn)  
+- R (statistical modeling, regression, cross-validation)
+- Java
+- C++
+- Machine Learning & Probabilistic Models  
+- Data Analysis & Visualization  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: 
+
